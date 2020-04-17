@@ -1,3 +1,5 @@
 Gitの練習を始めます
-基本的なワークフロー
-コミット
+- git add
+- git commit
+- git rm
+- git status
